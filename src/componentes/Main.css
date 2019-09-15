@@ -1,0 +1,27 @@
+
+th, td{
+    padding: 10px 30px;
+    border-bottom: 1px solid rgb(199, 197, 197);
+}
+form{
+    border: 1px solid rgb(199, 197, 197);
+    padding: 15px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.main{
+    margin-bottom: 100px;
+    height: 51.5vh;
+}
+
+.fa{
+    cursor: pointer;
+}
+
+input:focus, select:focus{
+    box-shadow: none !important;
+}
